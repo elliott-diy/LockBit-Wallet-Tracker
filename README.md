@@ -9,7 +9,7 @@ This repo contains public Bitcoin addresses attributed to the LockBit ransomware
 
 ## 🧾 Funded Wallets Summary
 - Total funded wallets: 28
-- Total BTC: ~5.11 BTC
+- Total BTC: ~5.03 BTC
 - Snapshot date: May 7th, 2025
 
 
