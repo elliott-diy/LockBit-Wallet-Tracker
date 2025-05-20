@@ -1,6 +1,6 @@
 # 🔒 LockBit Wallet Tracker
 
-This repo contains public Bitcoin addresses attributed to the LockBit ransomware group.
+This repo contains public Bitcoin addresses attributed to the LockBit ransomware group. Read more about it here!: https://elliott.diy/blog/lockbit-tracking/
 
 - `all_wallets_unscanned.csv`: Full set of addresses, unscanned
 - `funded_wallets_may2025.csv`: Confirmed active/funded addresses
